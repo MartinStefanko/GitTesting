@@ -18,3 +18,4 @@ Desat a pol
 Jedenast
 Dvanast
 Trinast
+Strnast
