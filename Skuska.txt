@@ -19,3 +19,4 @@ Jedenast
 Dvanast
 Trinast
 Strnast
+Patnast
