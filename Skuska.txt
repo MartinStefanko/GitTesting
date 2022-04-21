@@ -18,5 +18,7 @@ Desat a pol
 Jedenast
 Dvanast
 Trinast
-Strnast
 Patnast
+Sestnast
+Sedemnast
+
