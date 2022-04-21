@@ -15,3 +15,5 @@ Desat
 Jedenast
 Dvanast
 Trinast
+Sestnast
+
